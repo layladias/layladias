@@ -27,8 +27,7 @@ I also love **photography, cinema, and art**, which helps me stay creative and d
 - Basic understanding of:
   - operating systems  
   - computer hardware  
-  - virtualization (VirtualBox)  
-  - Linux terminal commands  
+  - virtualization (VirtualBox)
 
 ### 👜 Tools & Software
 - **Microsoft Office (Advanced)**  
@@ -41,7 +40,7 @@ I also love **photography, cinema, and art**, which helps me stay creative and d
 ## 📚 Languages
 - 🇧🇷 **Portuguese** — Native  
 - 🇬🇧 **English** — Very Good  
-- 🇩🇪 **German** — Good  
+- 🇦🇹 **German** — Good  
 - 🇪🇸 **Spanish** — Good  
 - 🇫🇷 **French** — Basic  
 
